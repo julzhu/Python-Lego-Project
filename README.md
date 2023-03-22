@@ -11,7 +11,10 @@ tb_utils
 lego_info_spider
 - Scraped product info from Lego official TMALL store as on-going products catalogue.
 
-main
+lego_sales_spider
 - Scraped product info of all Lego on-going products from 3rd party shops on Taobao.
+
+data_exploration
+- Cleaned data and created features, analyzed and visualized feature correlation.
 
 To be continued...
